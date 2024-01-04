@@ -1,7 +1,6 @@
 
-Dockerfile.* linguist-language=Dockerfile
 *.c linguist-detectable=true
-Dockerfile linguist-detectable=false 
+Dockerfile.*  linguist-detectable=false 
 *.html linguist-detectable=false
 *.tcl linguist-detectable=false
 *.js linguist-detectable=false
